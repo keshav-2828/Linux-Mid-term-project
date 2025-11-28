@@ -1,0 +1,21 @@
+User: nonghshim
+Date: Wed Oct 15 11:22:01 PM IST 2025
+Uptime:
+ 23:22:01 up  2:31,  1 user,  load average: 0.02, 0.03, 0.05
+Top 5 CPU processes:
+    PID COMMAND         %MEM %CPU
+   2159 gnome-shell     13.0  2.3
+   5383 gnome-terminal-  1.7  0.3
+   5007 kworker/0:2-eve  0.0  0.2
+   1283 VBoxDRMClient    0.0  0.1
+   5253 kworker/1:2-eve  0.0  0.1
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           323M  1.6M  321M   1% /run
+/dev/sda2        25G   14G  9.5G  60% /
+tmpfs           1.6G     0  1.6G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+Downloads       476G  429G   47G  91% /media/sf_Downloads
+shared          476G  429G   47G  91% /media/sf_shared
+tmpfs           323M  132K  323M   1% /run/user/1000
+/dev/sr0         51M   51M     0 100% /media/nongshim/VBox_GAs_7.2.02
